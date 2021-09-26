@@ -1,3 +1,2 @@
 # Music Website HomePage
-:XD
-https://koushub.github.io/nou/
+https://koushub.github.io/Music-Website-HomePage/
